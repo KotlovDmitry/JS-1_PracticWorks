@@ -54,3 +54,4 @@ const chess = {
 };
 chess.build();
 chess.setFigure();
+// Скоро дополню доску фигурами
