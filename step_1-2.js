@@ -1,3 +1,4 @@
+'use strict';
 const chess = {
     size: 8,
     chessBoard: document.querySelector('.chess-board'),
